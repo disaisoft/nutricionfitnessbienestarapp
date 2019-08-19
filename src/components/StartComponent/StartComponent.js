@@ -5,9 +5,9 @@ import React, { Component } from 'react';
 export class Start extends Component {
     render(){
         return(
-        <div className="container">
+        <div className="container shadow p-3 mb-5 bg-white rounded ">
                 <div className="">
-                    <div class="card text-center border border-info bg-primary text-white">
+                    <div class="card text-center border border-info bg-primary text-white ">
                         <div class="card-header border border-info">
                             <h1>Empezamos</h1>
                         </div>

@@ -5,7 +5,7 @@ import './Styles/CardsComponent.css';
 export class Cards extends Component {
   render() {
     return (
-      <div className="container">
+      <div className="container shadow p-3 mb-5 bg-white rounded">
         <div class="accordion border border-warning " id="accordionExample">
           <div class="card">
             <div class="card-header border border-warning text-center " id="headingOne">

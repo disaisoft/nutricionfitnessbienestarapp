@@ -5,7 +5,7 @@ export class AboutMe extends Component {
     render() {
         return (
 
-            <div className="container">
+            <div className="container shadow p-3 mb-5 bg-white rounded">
                 <div className="">
                     <div class="card text-center border border-success bg-success text-white">
                         <div class="card-header border border-success">
