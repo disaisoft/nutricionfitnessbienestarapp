@@ -19,7 +19,7 @@ class NavBar extends Component {
                         <div class="collapse navbar-collapse " id="firstNavbar">
                             <ul class="navbar-nav ml-auto">
                                 <li class="nav-item"><a class="nav-link" href="a"><i class="fa fa-fw fa-bomb"></i>ACERCA DE</a></li>
-                                <li class="nav-item"><a class="nav-link" href="a"><i class="fa fa-fw fa-envelope"></i>EMPEZAR</a></li>
+                                <li class="nav-item"><a class="nav-link" href="a"><i class="fa fa-fw fa-play"></i>EMPEZAR</a></li>
                                 <li class="nav-item"><a class="nav-link" href="a"><i class="fa fa-fw fa-star"></i>EL NEGOCIO</a></li>
                                 <li class="nav-item"><a class="nav-link" href="a"><i class="fa fa-fw fa-user"></i>TESTIMONIOS</a></li>
                                 <li class="nav-item"><a class="nav-link" href="a"><i class="fa fa-fw fa-android"></i>AUTOMATIZAR MI ROBOT</a></li>
