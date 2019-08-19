@@ -18,8 +18,9 @@ const Layout = (props) => {
              {props.children}
              <HomeComponent/><br/>
              <AboutMe/><br/>
-             <Start/><br/>
-             <Cards/>
+             <Cards/><br/>
+             <Start/>
+             
                
              
              <br/>
