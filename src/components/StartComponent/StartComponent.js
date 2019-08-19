@@ -7,7 +7,7 @@ export class Start extends Component {
         return(
         <div className="container">
                 <div className="">
-                    <div class="card text-center border border-info">
+                    <div class="card text-center border border-info bg-primary text-white">
                         <div class="card-header border border-info">
                             <h1>Empezamos</h1>
                         </div>

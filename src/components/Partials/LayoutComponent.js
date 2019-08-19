@@ -6,6 +6,7 @@ import HomeComponent from '../HomeComponent/HomeComponent';
 import AboutMe from '../AboutMe/AboutMe';
 import Start from '../StartComponent/StartComponent';
 import Cards from '../CardsComponent/CardsComponent';
+import Business from '../TheBusinessComponent/TheBusinessComponent';
 
 //import Updates from '../UpdatesComponent/UpdatesComponent';
 //import HomeComponent from '../Home/HomeComponent';
@@ -19,7 +20,8 @@ const Layout = (props) => {
              <HomeComponent/><br/>
              <AboutMe/><br/>
              <Cards/><br/>
-             <Start/>
+             <Start/><br/>
+             <Business/>
              
                
              

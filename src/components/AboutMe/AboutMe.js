@@ -7,7 +7,7 @@ export class AboutMe extends Component {
 
             <div className="container">
                 <div className="">
-                    <div class="card text-center border border-success">
+                    <div class="card text-center border border-success bg-success text-white">
                         <div class="card-header border border-success">
                             <h1>Acerca de mi</h1>
                         </div>
@@ -20,7 +20,7 @@ export class AboutMe extends Component {
                             Mi objetivo es conectarme con mis asociados a nivel personal y estoy siempre dispuesto a darte todo mi apoyo durante todo este proceso. Esto en muchos casos conduce a lazos irrompibles y familiares.
                             Me encanta lo que hago.
                             ¡Comencemos tu transformación! ¡Contáctame para comenzar!</p>
-                            <a href="#" class="btn btn-success">¡Contáctar!</a><br/>
+                            <a href="#" class="btn btn-danger">¡Contáctar!</a><br/>
                             
                         </div>
                     </div>
