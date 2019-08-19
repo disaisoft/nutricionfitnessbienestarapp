@@ -7,7 +7,7 @@ export class Testimonials extends Component {
         return(
         <div className="container shadow p-3 mb-5 bg-white rounded">
                 <div className="">
-                    <div class="card text-center border border-success bg-warning text-white">
+                    <div class="card text-center border border-success bg-success text-white">
                         <div class="card-header border border-success">
                             <h1>Testimonios</h1>
                         </div>

@@ -6,10 +6,10 @@ export class Cards extends Component {
   render() {
     return (
       <div className="container shadow p-3 mb-5 bg-white rounded">
-        <div class="accordion border border-warning " id="accordionExample">
+        <div class="accordion  " id="accordionExample">
           <div class="card">
-            <div class="card-header border border-warning text-center " id="headingOne">
-              <h2 class="mb-0 border border-danger">
+            <div class="card-header text-center " id="headingOne">
+              <h2 class="mb-0 ">
                 <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                   <h4>Nutrición</h4>
                 </button>
@@ -26,8 +26,8 @@ export class Cards extends Component {
             </div>
           </div>
           <div class="card">
-            <div class="card-header border border-warning text-center" id="headingTwo">
-              <h2 class="mb-0 border border-danger">
+            <div class="card-header text-center" id="headingTwo">
+              <h2 class="mb-0 ">
                 <button class="btn btn-link collapsed " type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                   <h4>Fitness</h4>
                 </button>
@@ -47,9 +47,9 @@ Los deportistas que acuden a esta disciplina deportiva suelen realizar series de
               </div>
             </div>
           </div>
-          <div class="card border border-warning">
-            <div class="card-header border border-warning text-center " id="headingThree">
-              <h2 class="mb-0 border border-danger">
+          <div class="card ">
+            <div class="card-header  text-center " id="headingThree">
+              <h2 class="mb-0 ">
                 <button class="btn btn-link collapsed " type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                   <h4>Bienestar</h4>
                 </button>
