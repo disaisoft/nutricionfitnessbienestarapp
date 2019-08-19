@@ -8,10 +8,9 @@ import Start from '../StartComponent/StartComponent';
 import Cards from '../CardsComponent/CardsComponent';
 import Business from '../TheBusinessComponent/TheBusinessComponent';
 import Testimonials from '../TestimonialsComponent/ TestimonialsComponent';
+import FinishComponent from '../FinishComponent/FinishComponent';
 
-//import Updates from '../UpdatesComponent/UpdatesComponent';
-//import HomeComponent from '../Home/HomeComponent';
-//import About from '../AboutMeComponent/AboutMeComponent';
+
 const Layout = (props) => {
     return(
 
@@ -30,7 +29,7 @@ const Layout = (props) => {
             
             
              
-
+             <FinishComponent/>
             <Footer/>
         </div>
     )
