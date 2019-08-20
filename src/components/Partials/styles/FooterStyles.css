@@ -2,6 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Anton');
 
 
-span{
-    font-family: 'Anton', sans-serif;
+.color-footer {
+    color: antiquewhite;
   }
