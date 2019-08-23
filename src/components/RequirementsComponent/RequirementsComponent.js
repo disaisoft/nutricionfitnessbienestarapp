@@ -10,7 +10,7 @@ export class Requirements extends Component {
                 <li class="list-group-item active text-center">Requisitos & Beneficios</li>
                 <li class="list-group-item"><a class="" ><i class="fa fa-fw fa-laptop mx-3"></i>Tener una PC o Celular</a></li>
                 <li class="list-group-item"><a class="" ><i class="fa fa-fw fa-internet-explorer mx-3"></i></a>Tener acceso a internet</li>
-                <li class="list-group-item"><a class="" ><i class="fa fa-fw fa-money mx-3"></i></a>Generaras Ingresos desde la primera semana</li>
+                <li class="list-group-item"><a class="" ><i class="fa fa-fw fa-money mx-3"></i></a>Ingresos desde la primera semana</li>
                 <li class="list-group-item"><a class="" ><i class="fa fa-fw fa-plane mx-3"></i></a>Trabajaras desde cualquier parte</li>
                 <li class="list-group-item"><a class="" ><i class="fa fa-fw fa-hand-o-right mx-3"></i>Aprenderas a liderar grupos</a></li>
             </ul>
