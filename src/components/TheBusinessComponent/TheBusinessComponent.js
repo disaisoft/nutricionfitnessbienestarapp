@@ -7,8 +7,8 @@ export class Business extends Component {
         return(
         <div className="container shadow p-3 mb-5 bg-white rounded">
                 <div className="">
-                    <div class="card text-center border border-success bg-dark text-white">
-                        <div class="card-header border border-success">
+                    <div class="card text-center  bg-dark text-white">
+                        <div class="card-header ">
                             <h1>El Negocio</h1>
                         </div>
                         <div class="card-body">
