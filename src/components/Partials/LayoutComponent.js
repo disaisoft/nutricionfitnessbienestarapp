@@ -10,6 +10,7 @@ import Business from '../TheBusinessComponent/TheBusinessComponent';
 import Testimonials from '../TestimonialsComponent/ TestimonialsComponent';
 import FinishComponent from '../FinishComponent/FinishComponent';
 import Privileges from '../PrivilegesComponent/PrivilegesComponent';
+import Requirements from '../RequirementsComponent/RequirementsComponent';
 import Mentality from '../MentalityComponent/MentalityComponent';
 
 const Layout = (props) => {
@@ -24,6 +25,7 @@ const Layout = (props) => {
              <Start/>
              <Privileges/><br/>
              <Business/><br/>
+             <Requirements/><br/>
              <Testimonials/><br/>
              <Mentality/>
                
