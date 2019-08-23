@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import Testimonies from '../../images/testimonies.png'
 
 
 export class Testimonials extends Component {
@@ -12,7 +12,7 @@ export class Testimonials extends Component {
                             <h1>Testimonios</h1>
                         </div>
                         <div class="card-body">
-                            
+                        <div><img src={Testimonies} alt="Testimonies" width="140px" height="140px" /></div><br />
                             <h5 class="card-title">He Aquí Algunos Testimonios</h5>
                             <p class="card-text">acá va a ir un video</p>
                             <a href="#" class="btn btn-primary">¡Ver Video!</a><br/>
