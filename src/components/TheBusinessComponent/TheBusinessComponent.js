@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import Negocio from '../../images/ingresos.png';
 
 
 export class Business extends Component {
@@ -12,7 +12,7 @@ export class Business extends Component {
                             <h1>El Negocio</h1>
                         </div>
                         <div class="card-body">
-                            
+                        <div><img src={Negocio} alt="Acerca de mi" width="150px" height="100px" /></div><br />
                             <h5 class="card-title">Como Iniciar Tu Negocio Online</h5>
                             <p class="card-text">acá va a ir un video</p>
                             <a href="#" class="btn btn-success">¡Ver Video!</a><br/>

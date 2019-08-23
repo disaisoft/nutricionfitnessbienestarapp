@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Iniciar from '../../images/iniciar.png';
 
 
 
@@ -12,7 +13,7 @@ export class Start extends Component {
                             <h1>Empezamos</h1>
                         </div>
                         <div class="card-body">
-                            
+                        <div><img src={Iniciar} alt="Acerca de mi" width="150px" height="150px" /></div><br />
                             <h5 class="card-title">Como Registraste En La Plataforma</h5>
                             <p class="card-text">acá va a ir un video</p>
                             <a href="#" class="btn btn-info">¡Ver Video!</a><br/>
