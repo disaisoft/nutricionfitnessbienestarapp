@@ -9,7 +9,7 @@ import Cards from '../CardsComponent/CardsComponent';
 import Business from '../TheBusinessComponent/TheBusinessComponent';
 import Testimonials from '../TestimonialsComponent/ TestimonialsComponent';
 import FinishComponent from '../FinishComponent/FinishComponent';
-
+import Privileges from '../PrivilegesComponent/PrivilegesComponent';
 
 const Layout = (props) => {
     return(
@@ -20,7 +20,8 @@ const Layout = (props) => {
              <HomeComponent/><br/>
              <AboutMe/><br/>
              <Cards/><br/>
-             <Start/><br/>
+             <Start/>
+             <Privileges/><br/>
              <Business/><br/>
              <Testimonials/>
                

@@ -23,6 +23,8 @@ export class Start extends Component {
                 </div>
             </div>
 
+            
+
         );
     }
 
