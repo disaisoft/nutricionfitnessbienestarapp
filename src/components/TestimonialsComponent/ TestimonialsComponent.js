@@ -5,7 +5,7 @@ import Testimonies from '../../images/testimonies.png'
 export class Testimonials extends Component {
     render(){
         return(
-        <div className="container shadow p-3 mb-5 bg-white rounded">
+        <div className="container shadow p-3 mb-5 bg-white rounded" id="testimonios">
                 <div className="">
                     <div class="card text-center border border-success bg-success text-white">
                         <div class="card-header border border-success">

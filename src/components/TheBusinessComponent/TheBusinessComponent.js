@@ -5,7 +5,7 @@ import Negocio from '../../images/ingresos.png';
 export class Business extends Component {
     render(){
         return(
-        <div className="container shadow p-3 mb-5 bg-white rounded">
+        <div className="container shadow p-3 mb-5 bg-white rounded" id="elnegocio">
                 <div className="">
                     <div class="card text-center  bg-dark text-white">
                         <div class="card-header ">

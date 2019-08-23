@@ -6,7 +6,7 @@ import Iniciar from '../../images/adduser.png';
 export class Start extends Component {
     render(){
         return(
-        <div className="container shadow p-3 mb-5 bg-white rounded ">
+        <div className="container shadow p-3 mb-5 bg-white rounded " id="empezamos">
                 <div className="">
                     <div class="card text-center border border-info bg-info text-white ">
                         <div class="card-header border border-info">
