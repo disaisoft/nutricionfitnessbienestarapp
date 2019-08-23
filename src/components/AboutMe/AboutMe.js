@@ -14,7 +14,7 @@ export class AboutMe extends Component {
                             <h1>Acerca de mi</h1>
                         </div>
                         <div class="card-body">
-                            <div><img src={Acercade} alt="Acerca de mi" width="150px" height="150px" /></div><br />
+                            <div><img src={Acercade} alt="Acerca de mi" width="180px" height="180px" /></div><br />
                         
                             <h5 class="card-title">David I. López F.</h5>
                             
