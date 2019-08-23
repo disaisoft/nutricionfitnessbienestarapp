@@ -10,9 +10,9 @@ export class Mentality extends Component {
         <div className="container shadow p-3 mb-5 bg-white rounded">
             <h2 class="display-4 text-center">"¡Cambia tu mentalidad, cambia tu vida!"</h2>
             <hr class="my-4"></hr>
-            <p class="lead text-center">Le enseño a las personas a cómo vivir un estilo de vida saludable y activo.</p>
+            <p class="lead text-center letra">Le enseño a las personas a cómo vivir un estilo de vida saludable y activo.</p>
             <hr class="my-4"></hr>
-            <p class="lead text-center">Nuestros productos vienen con un corazón 💚Nuestros💚</p>
+            <p class="lead text-center letra">Nuestros productos vienen con un corazón 💚Nuestros💚</p>
       </div>
 
       );
