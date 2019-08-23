@@ -19,7 +19,8 @@ export class Testimonials extends Component {
                             
                         </div>
                     </div>
-                </div>
+                </div>     
+                
             </div>
 
         );

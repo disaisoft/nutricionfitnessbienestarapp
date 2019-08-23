@@ -10,6 +10,7 @@ import Business from '../TheBusinessComponent/TheBusinessComponent';
 import Testimonials from '../TestimonialsComponent/ TestimonialsComponent';
 import FinishComponent from '../FinishComponent/FinishComponent';
 import Privileges from '../PrivilegesComponent/PrivilegesComponent';
+import Mentality from '../MentalityComponent/MentalityComponent';
 
 const Layout = (props) => {
     return(
@@ -23,7 +24,8 @@ const Layout = (props) => {
              <Start/>
              <Privileges/><br/>
              <Business/><br/>
-             <Testimonials/>
+             <Testimonials/><br/>
+             <Mentality/>
                
              
              <br/>
