@@ -15,9 +15,7 @@ export class Requirements extends Component {
                 <li class="list-group-item"><a class="" ><i class="fa fa-fw fa-hand-o-right mx-3"></i>Aprenderas a liderar grupos</a></li>
             </ul>
       </div>
-
-
-
+     
     );
   }
 

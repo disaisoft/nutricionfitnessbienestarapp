@@ -12,7 +12,7 @@ export class Mentality extends Component {
             <hr class="my-4"></hr>
             <p class="lead text-center letra">Le enseño a las personas a cómo vivir un estilo de vida saludable y activo.</p>
             <hr class="my-4"></hr>
-            <p class="lead text-center letra">Nuestros productos vienen con un corazón 💚Nuestros💚</p>
+            <p class="lead text-center letra">Nuestros productos son 100% naturales 💚</p>
       </div>
 
       );
