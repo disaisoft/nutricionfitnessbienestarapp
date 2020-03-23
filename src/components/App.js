@@ -6,9 +6,6 @@ import firebase from 'firebase';
 import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth';
 
 
-
-
-
 function App() {
   return (
     <BrowserRouter>

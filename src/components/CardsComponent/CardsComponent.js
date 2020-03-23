@@ -37,12 +37,9 @@ export class Cards extends Component {
               <div class="card-body">
                 <p>
                 Bajo la acepción fitness se esconden dos definiciones muy vinculadas. En primer lugar, entendemos por fitness el estado de salud física y bienestar que se consigue al llevar una vida sana apoyada en el ejercicio continuado en el tiempo y en una dieta saludable. En segundo lugar, también se define como fitness al conjunto de ejercicios gimnásticos que se repiten varias veces por semana para conseguir una buena forma física. Normalmente estos ejercicios se realizan en espacios deportivos específicos, como los gimnasios.
-
-Los objetivos de esta práctica deportiva son mejorar la resistencia aeróbica, tener mayor flexibilidad, conseguir fuerza muscular, conseguir una fuerza muscular localizada y lograr el equilibro corporal (ha de respetar unos porcentajes de lo que se considera sano en músculos, huesos y grasas).
-
-Durante años el fitness ha estado en auge en Estados Unidos, pero su trascendencia ya se ha extendido a Europa y algunos países de América del Sur, como Colombia.
-
-Los deportistas que acuden a esta disciplina deportiva suelen realizar series de carreras, sentadillas, flexiones y saltos combinados con ejercicios de disciplinas como el breakdance.
+                Los objetivos de esta práctica deportiva son mejorar la resistencia aeróbica, tener mayor flexibilidad, conseguir fuerza muscular, conseguir una fuerza muscular localizada y lograr el equilibro corporal (ha de respetar unos porcentajes de lo que se considera sano en músculos, huesos y grasas).
+                Durante años el fitness ha estado en auge en Estados Unidos, pero su trascendencia ya se ha extendido a Europa y algunos países de América del Sur, como Colombia.
+                Los deportistas que acuden a esta disciplina deportiva suelen realizar series de carreras, sentadillas, flexiones y saltos combinados con ejercicios de disciplinas como el breakdance.
                 </p>
               </div>
             </div>

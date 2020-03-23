@@ -12,6 +12,7 @@ import FinishComponent from '../FinishComponent/FinishComponent';
 import Privileges from '../PrivilegesComponent/PrivilegesComponent';
 import Requirements from '../RequirementsComponent/RequirementsComponent';
 import Mentality from '../MentalityComponent/MentalityComponent';
+//import Player from '../VideoComponent/VideoComponent';
 
 const Layout = (props) => {
     return(
@@ -23,6 +24,7 @@ const Layout = (props) => {
              <AboutMe/><br/>
              <Cards/><br/>
              <Start/>
+             
              <Privileges/><br/>
              <Business/><br/>
              <Requirements/><br/>
