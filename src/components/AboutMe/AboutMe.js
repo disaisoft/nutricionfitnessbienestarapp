@@ -19,12 +19,13 @@ export class AboutMe extends Component {
                             <h5 class="card-title">David I. López F.</h5>
                             
                             <p class="card-text">¿Quien soy?
-                            ¡Una persona comprometida que esta dispuesta a ayudar a los demas a cambiar sus vidas positivamente!
-                            me dicen Dave, Soy una persona joven con grandes sueños y metas. ¡mi vida gira en torno a una vida deportiva! Lo que hago es simple: Enseño a personas de todo el mundo acerca de una nutrición adecuada y los inspiro a vivir un estilo de vida saludable y activo.
-                            Mi objetivo es conectarme con mis asociados a nivel personal y siempre estoy dispuesto a darte todo mi apoyo durante este proceso. Esto en muchos casos conduce a lazos familiares.
+                            ¡Una persona comprometida que está dispuesta a ayudar a los demás a cambiar sus vidas positivamente!
+                            me dicen Dave, Soy una persona joven con grandes sueños y metas. ¡mi vida gira entorno a una vida deportiva! Lo que hago es simple: Enseño a personas de todo el mundo acerca de una nutrición adecuada y los inspiro a vivir un estilo de vida saludable y activo.
+                            Mi objetivo es conectarme con mis asociados a nivel personal y profesional, siempre estoy dispuesto a darte todo mi apoyo durante este proceso. Esto en muchos casos conduce a lazos familiares.
                             Me encanta lo que hago.
                             ¡Comencemos tu transformación! ¡Contáctame para comenzar!</p>
-                            <a href="#" class="btn btn-danger">¡Contáctar!</a><br/>
+                            
+                            <a href="https://api.whatsapp.com/send?phone=573117056041&text=Hola!!%20quiero%20APRENDER%20A%20GENERAR%20INGRESOS%20EXTRAS%20DESDE%20CASA%20" class="btn btn-danger" target="_blank">¡Contáctar!</a>
                             
                         </div>
                     </div>
