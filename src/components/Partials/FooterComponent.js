@@ -20,7 +20,7 @@ class Footer extends React.Component {
             <div class="text-center">
               <p class="color-footer">&copy; Copyright <strong>David I. López</strong> Todos Los Derechos Reservados</p>
               <div class="credits">
-                Diseñado Por <a href="#">David I. López F.</a>
+                Diseñado Por <a href="https://davidilopez.netlify.com">David I. López F.</a>
               </div>
             </div>
           </footer>
