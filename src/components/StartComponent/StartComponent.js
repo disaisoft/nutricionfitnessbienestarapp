@@ -23,7 +23,7 @@ export class Start extends Component {
                         <div className='player-wrapper'>
                             <ReactPlayer
                                 className='react-player'
-                                url='https://www.estoesherbalife.com/media/static-files/video/VTAS-OLC-Video-OldNew-Actualizacion-EVE.mp4'
+                                url='https://www.youtube.com/watch?v=gL3hgyLDs4E'
                                 width='100%'
                                 height='50%'
                                 controls={true}
