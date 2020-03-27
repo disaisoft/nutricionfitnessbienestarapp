@@ -11,7 +11,7 @@ class NavBar extends Component {
                 <nav class="navbar navbar-expand-md navbar-light bg-light">
                     <div class="container">
                         <a href="a" class="navbar-brand">
-                            <img src={logo} weight="200px" height="150px" alt="logo" />
+                            <img src={logo} weight="200px" height="150px" alt="logo"  />
                         </a>
                         <button type="button" class="navbar-toggler"  data-toggle="collapse" data-target="#firstNavbar">
                             <span class="navbar-toggler-icon"></span>

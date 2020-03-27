@@ -12,7 +12,9 @@ import FinishComponent from '../FinishComponent/FinishComponent';
 import Privileges from '../PrivilegesComponent/PrivilegesComponent';
 import Requirements from '../RequirementsComponent/RequirementsComponent';
 import Mentality from '../MentalityComponent/MentalityComponent';
+//import ResponsivePlayer from '../Videos/ResponsivePlayer';
 //import Player from '../VideoComponent/VideoComponent';
+
 
 const Layout = (props) => {
     return(

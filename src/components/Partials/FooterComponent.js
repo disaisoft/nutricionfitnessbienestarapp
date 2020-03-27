@@ -8,9 +8,9 @@ class Footer extends React.Component {
         return(
             <footer class="section footer-classic context-dark bg-dark">   
             <div class="row no-gutters social-container text-center">
-              <div class="col"><a class="nav-link" href="a"><span>Facebook</span></a></div>
-              <div class="col"><a class="nav-link" href="a"><span>Instagram</span></a></div>
-              <div class="col"><a class="nav-link" href="a"><span>Twitter</span></a></div>
+              <div class="col"><a class="nav-link" href="https://www.facebook.com/NutricionFitnessBienestar/"><span>Facebook</span></a></div>
+              <div class="col"><a class="nav-link" href="https://www.instagram.com/dave.workout/"><span>Instagram</span></a></div>
+              <div class="col"><a class="nav-link" href="https://www.instagram.com/dave.workout/"><span>Twitter</span></a></div>
             </div><br />
             <div className="btn-whatsapp">
                 <a href="https://api.whatsapp.com/send?phone=573117056041&text=Hola!!%20quiero%20APRENDER%20A%20GENERAR%20INGRESOS%20EXTRAS%20DESDE%20CASA%20" target="_blank">
