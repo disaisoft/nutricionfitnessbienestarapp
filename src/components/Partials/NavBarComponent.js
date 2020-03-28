@@ -22,7 +22,7 @@ class NavBar extends Component {
                                 <li class="nav-item"><a class="nav-link" href="#empezamos"><i class="fa fa-fw fa-play"></i>EMPEZAR</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#elnegocio"><i class="fa fa-fw fa-star"></i>EL NEGOCIO</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#testimonios"><i class="fa fa-fw fa-user"></i>TESTIMONIOS</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#automatizarmibot"><i class="fa fa-fw fa-android"></i>AUTOMATIZAR MI ROBOT</a></li>
+                                <li class="nav-item"><a class="nav-link" href="https://disailopez.goherbalife.com/"><i class="fa fa-fw fa-cart-plus"></i>COMPRAR SIN DESCUENTO</a></li>
                             </ul>
                         </div>
                     </div>
