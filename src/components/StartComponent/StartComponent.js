@@ -20,7 +20,7 @@ export class Start extends Component {
                             <h4>Numero de Indentificación: C200323023</h4>
                             <h4>Apellido: López</h4>
                         </div>
-                        <div className='player-wrapper'>
+                        <div className='player-wrapper container' >
                             <ReactPlayer
                                 className='react-player'
                                 url='https://www.youtube.com/watch?v=gL3hgyLDs4E'
