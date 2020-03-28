@@ -16,7 +16,7 @@ export class Start extends Component {
                         </div>
                         <div class="card-body">
                         <div><img src={Iniciar} alt="Acerca de mi" width="90px" height="120px" /></div><br />
-                            <h5 class="card-title">En este video sabras como registrarte!</h5> 
+                            <h5 class="card-title">Cómo Registrarse A La Plataforma</h5> 
                             <h4>Numero de Indentificación: C200323023</h4>
                             <h4>Apellido: López</h4>
                         </div>

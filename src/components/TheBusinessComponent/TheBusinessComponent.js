@@ -14,8 +14,8 @@ export class Business extends Component {
                         </div>
                         <div class="card-body">
                         <div><img src={Negocio} alt="Acerca de mi" width="150px" height="100px" /></div><br />
-                            <h5 class="card-title">Como Iniciar Tu Negocio Online</h5>
-                            <a href="#" class="btn btn-success">¡Ver Video!</a><br/>             
+                            <h5 class="card-title">¿Por qué Desarrollar Tu Negocio Independiente Con HERBALIFE NUTRITION?</h5>
+                                         
                         </div>
                         <div className='player-wrapper container'>
                             <ReactPlayer
