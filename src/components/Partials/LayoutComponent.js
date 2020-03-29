@@ -31,14 +31,8 @@ const Layout = (props) => {
              <Business/><br/>
              <Requirements/><br/>
              <Testimonials/><br/>
-             <Mentality/>
-               
-             
-             <br/>
-            
-            
-             
-             <FinishComponent/>
+             <Mentality/> 
+             <FinishComponent/><br/>
             <Footer/>
         </div>
     )
