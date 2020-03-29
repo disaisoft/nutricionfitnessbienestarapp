@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import Testimonies from '../../images/testimonies.png'
+import Testimonies from '../../images/testimonies.png';
+import ReactPlayer from 'react-player';
 
 
 export class Testimonials extends Component {
@@ -13,11 +14,20 @@ export class Testimonials extends Component {
                         </div>
                         <div class="card-body">
                         <div><img src={Testimonies} alt="Testimonies" width="140px" height="140px" /></div><br />
-                            <h5 class="card-title">He Aquí Algunos Testimonios</h5>
-                            <a href="#" class="btn btn-primary">¡Ver Video!</a><br/>  
+                            <h5 class="card-title">He Aquí Algunos Testimonios</h5>  
                         </div>
+                        <div className='player-wrapper container'>
+                            <ReactPlayer
+                                className='react-player'
+                                url='https://youtu.be/O1xLwTy-l84'
+                                width='100%'
+                                height='100%'
+                                controls={true}
+                                position='center'
+                            />
+                            </div>
                     </div>
-                    
+                   
                 </div>     
                 
             </div>

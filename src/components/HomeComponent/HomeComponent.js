@@ -8,8 +8,8 @@ export class HomeComponent extends Component {
     render() {
         return (
             
-        <div className="bd-example container">
-        <div id="carouselExampleCaptions" className="carousel slide" data-ride="carousel">
+        <div className="bd-example container" >
+        <div id="carouselExampleCaptions" className="carousel  slide" top="100%" data-ride="carousel">
           <ol className="carousel-indicators">
             <li data-target="#carouselExampleCaptions" data-slide-to="0" className="active"></li>
             <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
