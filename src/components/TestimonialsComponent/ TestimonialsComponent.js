@@ -14,10 +14,10 @@ export class Testimonials extends Component {
                         <div class="card-body">
                         <div><img src={Testimonies} alt="Testimonies" width="140px" height="140px" /></div><br />
                             <h5 class="card-title">He Aquí Algunos Testimonios</h5>
-                            <a href="#" class="btn btn-primary">¡Ver Video!</a><br/>
-                            
+                            <a href="#" class="btn btn-primary">¡Ver Video!</a><br/>  
                         </div>
                     </div>
+                    
                 </div>     
                 
             </div>

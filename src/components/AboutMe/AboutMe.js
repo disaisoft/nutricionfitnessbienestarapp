@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 //import  from '../../images/onearm.jpeg';
 import Acercade from '../../images/acercademi1.png';
+import './Styles/StylesAboutMe.css';
 
 
 export class AboutMe extends Component {
