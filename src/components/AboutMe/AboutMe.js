@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 //import  from '../../images/onearm.jpeg';
-import Acercade from '../../images/acercademi1.png';
+import Acercade from '../../images/acercademi3.png';
 import './Styles/StylesAboutMe.css';
 
 
@@ -17,11 +17,11 @@ export class AboutMe extends Component {
                         <div class="card-body">
                             <div><img src={Acercade} alt="Acerca de mi" width="180px" height="180px" /></div><br />
                         
-                            <h5 class="card-title">David I. López F.</h5>
+                            <h5 class="card-title">Dave I. López F.</h5>
                             
                             <p class="card-text">¿Quien soy?
                             ¡Una persona comprometida que está dispuesta a ayudar a los demás a cambiar sus vidas positivamente!
-                            me dicen Dave, Soy una persona joven con grandes sueños y metas. ¡mi vida gira entorno a una vida deportiva! Lo que hago es simple: Enseño a personas de todo el mundo acerca de una nutrición adecuada y los inspiro a vivir un estilo de vida saludable y activo.
+                            Soy una persona joven con grandes sueños y metas. ¡mi vida gira entorno a una vida deportiva! Lo que hago es simple: Enseño a personas de todo el mundo acerca de una nutrición adecuada y los inspiro a vivir un estilo de vida saludable y activo.
                             Mi objetivo es conectarme con mis asociados a nivel personal y profesional, siempre estoy dispuesto a darte todo mi apoyo durante este proceso. 
                             Me encanta lo que hago.
                             ¡Comencemos tu transformación! ¡Contáctame para comenzar!</p>
