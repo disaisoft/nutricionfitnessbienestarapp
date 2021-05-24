@@ -26,7 +26,7 @@ export class AboutMe extends Component {
                             Me encanta lo que hago.
                             ¡Comencemos tu transformación! ¡Contáctame para comenzar!</p>
                             
-                            <a href="https://api.whatsapp.com/send?phone=573105031762&text=Hola!!%20quiero%20APRENDER%20A%20GENERAR%20INGRESOS%20EXTRAS%20DESDE%20CASA.%20Mi%20Nombre,%20Apellido,%20Ciudad%20y%20Pais%20Es:%20" class="btn btn-danger" target="_blank">¡Contáctar!</a>
+                            <a href="https://api.whatsapp.com/send?phone=573206305675&text=Hola!!%20quiero%20APRENDER%20A%20GENERAR%20INGRESOS%20EXTRAS%20DESDE%20CASA.%20Mi%20Nombre,%20Apellido,%20Ciudad%20y%20Pais%20Es:%20" class="btn btn-danger" target="_blank">¡Contáctar!</a>
                             
                         </div>
                     </div>
