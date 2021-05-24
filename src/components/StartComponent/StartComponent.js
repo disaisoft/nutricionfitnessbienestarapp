@@ -19,7 +19,7 @@ export class Start extends Component {
                             <h5 class="card-title">Cómo Registrarse A La Plataforma</h5> 
                             <h4>Numero de Indentificación: C200323023</h4>
                             <h4>Apellido: López</h4>
-                            <h6>Kit de Registro: Tiene un Costo de 136.000 pesos</h6>
+                            <h6>Kit de Registro: Tiene un Costo de 150.000 pesos</h6>
                         </div>
                         <div className='player-wrapper container'>
                             <ReactPlayer
