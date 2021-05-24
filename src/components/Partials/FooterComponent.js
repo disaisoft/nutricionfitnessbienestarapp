@@ -12,7 +12,11 @@ class Footer extends React.Component {
               <div class="col"><a class="nav-link" href="https://www.instagram.com/dave.workout/"><span>Instagram</span></a></div>
               <div class="col"><a class="nav-link" href="https://www.instagram.com/dave.workout/"><span>Twitter</span></a></div>
             </div><br />
-            
+            <div className="btn-whatsapp">
+                <a href="https://api.whatsapp.com/send?phone=+573206305675&text=Hola!!%20quiero%20CAMBIAR%20A%20MI%20VIDA%20DESDE%20HOY%20MISMO.%20Mi%20Nombre,%20Apellido,%20Ciudad%20y%20Pais%20Es:%20" target="_blank">
+                    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="" />
+                </a>
+            </div>
             <div class="text-center">
               <p class="color-footer">&copy; Copyright <strong>David I. López</strong> Todos Los Derechos Reservados</p>
               <div class="credits">
